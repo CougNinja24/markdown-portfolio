@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Git and GitHub](https://www.solucionex.com/sites/default/files/categorias_post/git.jpg)
